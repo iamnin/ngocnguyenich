@@ -8,7 +8,7 @@
 
 **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://cdn-icons-png.flaticon.com/512/6840/6840541.png" width = 250px></picture>
 
 <br>
 
