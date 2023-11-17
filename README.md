@@ -19,7 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://e1.pngegg.com/pngimages/992/768/png-clipart-brackets-red-open-curly-bracket-illustration-thumbnail.png" width ="25"><b> Skills</b>
+## <b> Skills</b>
 <br>
 
 <p align="center">
