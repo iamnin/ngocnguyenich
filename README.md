@@ -114,7 +114,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/nguy%E1%BB%85n%C3%ADch-ng%E1%BB%8Dc-01604b15b/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -122,7 +122,7 @@
 
 <li>
 <a href="" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -130,7 +130,7 @@
 
 <li>
 <a href="" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
