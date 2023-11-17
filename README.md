@@ -19,7 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://grammarist.com/wp-content/uploads/Grammarist-Article-Graphic-V2-17-1024x478.png" width ="25"><b> Skills</b>
+## <img src="https://static.wikia.nocookie.net/unoffical-number-lore/images/1/1f/Braces2.png/revision/latest?cb=20230322164340" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
