@@ -8,7 +8,7 @@
 
 **About me**
 
-<picture> <img align="right" src="https://cdn-icons-png.flaticon.com/512/6840/6840541.png" width = 250px></picture>
+<picture> <img align="right" src="https://cdn-icons-png.flaticon.com/512/6840/6840478.png" width = 250px></picture>
 
 <br>
 
@@ -19,7 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/6840/6840541.png" width ="25"><b> Skills</b>
+## <img src="https://grammarist.com/wp-content/uploads/Grammarist-Article-Graphic-V2-17-1024x478.png" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
