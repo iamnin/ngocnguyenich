@@ -122,14 +122,6 @@
 
 <li>
 <a href="" target="_blank">
-<img src="" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="" target="_blank">
 <img src="" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
