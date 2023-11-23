@@ -113,7 +113,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/nguy%E1%BB%85n%C3%ADch-ng%E1%BB%8Dc-01604b15b/" target="_blank">
+<a href="https://www.linkedin.com/in/nguy%E1%BB%85n-%C3%ADch-ng%E1%BB%8Dc-01604b15b/" target="_blank">
 <img src="" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
